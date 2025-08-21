@@ -1,0 +1,322 @@
+{
+  "listaDeHorarios": [
+	{
+		"CodColigada": 1,
+		"CodHor": 2101,
+		"DiaSemana": "segunda",
+		"HoraInicial": "07:00",
+		"HoraFinal": "07:50"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 2102,
+		"DiaSemana": "segunda",
+		"HoraInicial": "07:50",
+		"HoraFinal": "08:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 2103,
+		"DiaSemana": "segunda",
+		"HoraInicial": "08:40",
+		"HoraFinal": "09:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 2104,
+		"DiaSemana": "segunda",
+		"HoraInicial": "09:50",
+		"HoraFinal": "10:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 2105,
+		"DiaSemana": "segunda",
+		"HoraInicial": "10:40",
+		"HoraFinal": "11:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 3101,
+		"DiaSemana": "terça",
+		"HoraInicial": "07:00",
+		"HoraFinal": "07:50"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 3102,
+		"DiaSemana": "terça",
+		"HoraInicial": "07:50",
+		"HoraFinal": "08:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 3103,
+		"DiaSemana": "terça",
+		"HoraInicial": "08:40",
+		"HoraFinal": "09:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 3104,
+		"DiaSemana": "terça",
+		"HoraInicial": "09:50",
+		"HoraFinal": "10:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 3105,
+		"DiaSemana": "terça",
+		"HoraInicial": "10:40",
+		"HoraFinal": "11:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 4101,
+		"DiaSemana": "quarta",
+		"HoraInicial": "07:00",
+		"HoraFinal": "07:50"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 4102,
+		"DiaSemana": "quarta",
+		"HoraInicial": "07:50",
+		"HoraFinal": "08:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 4103,
+		"DiaSemana": "quarta",
+		"HoraInicial": "08:40",
+		"HoraFinal": "09:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 4104,
+		"DiaSemana": "quarta",
+		"HoraInicial": "09:50",
+		"HoraFinal": "10:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 4105,
+		"DiaSemana": "quarta",
+		"HoraInicial": "10:40",
+		"HoraFinal": "11:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 5101,
+		"DiaSemana": "quinta",
+		"HoraInicial": "07:00",
+		"HoraFinal": "07:50"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 5102,
+		"DiaSemana": "quinta",
+		"HoraInicial": "07:50",
+		"HoraFinal": "08:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 5103,
+		"DiaSemana": "quinta",
+		"HoraInicial": "08:40",
+		"HoraFinal": "09:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 5104,
+		"DiaSemana": "quinta",
+		"HoraInicial": "09:50",
+		"HoraFinal": "10:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 5105,
+		"DiaSemana": "quinta",
+		"HoraInicial": "10:40",
+		"HoraFinal": "11:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 6101,
+		"DiaSemana": "sexta",
+		"HoraInicial": "07:00",
+		"HoraFinal": "07:50"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 6102,
+		"DiaSemana": "sexta",
+		"HoraInicial": "07:50",
+		"HoraFinal": "08:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 6103,
+		"DiaSemana": "sexta",
+		"HoraInicial": "08:40",
+		"HoraFinal": "09:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 6104,
+		"DiaSemana": "sexta",
+		"HoraInicial": "09:50",
+		"HoraFinal": "10:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 6105,
+		"DiaSemana": "sexta",
+		"HoraInicial": "10:40",
+		"HoraFinal": "11:30"
+	}
+  ],
+  "listaDeDisciplinas": [
+  	{
+  		"CodColigada": 1,
+  		"CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647",
+  		"CodTurma": "SI-2023/2-0032",
+  		"CodDisc": "S001-1",
+  		"CodPeriodo": 1,
+  		"NumeroAulasPorSemana": 5
+  	},
+  	{
+  		"CodColigada": 1,
+  		"CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304",
+  		"CodTurma": "SI-2023/2-0032",
+  		"CodDisc": "S003-1",
+  		"CodPeriodo": 1,
+  		"NumeroAulasPorSemana": 5
+  	},
+  	{
+  		"CodColigada": 1,
+  		"CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293",
+  		"CodTurma": "SI-2023/2-0032",
+  		"CodDisc": "S006-1",
+  		"CodPeriodo": 1,
+  		"NumeroAulasPorSemana": 1
+  	},
+	{
+		"CodColigada": 1,
+		"CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982",
+		"CodTurma": "SI-2023/2-0032",
+		"CodDisc": "S002-1",
+		"CodPeriodo": 1,
+		"NumeroAulasPorSemana": 3
+	},
+	{
+		"CodColigada": 1,
+		"CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8",
+		"CodTurma": "SI-2023/2-0032",
+		"CodDisc": "S005-1",
+		"CodPeriodo": 1,
+		"NumeroAulasPorSemana": 4
+	},
+	{
+		"CodColigada": 1,
+		"CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB",
+		"CodTurma": "SI-2023/2-0032",
+		"CodDisc": "S004-1",
+		"CodPeriodo": 1,
+		"NumeroAulasPorSemana": 1
+	}		
+  ],
+  "listaDeProfessores":[
+	{
+		"CodColigada": 1,
+		"CodProf": "00041",
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": "segunda",
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			}
+		]
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "PS-0001",
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": "terça",
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			}
+		]		
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "Prof001",
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": "segunda",
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			},
+			{
+				"DiaSemana": "terça",
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			}			
+		]	
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "00040",
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": "quarta",
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			},
+			{
+				"DiaSemana": "sexta",
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			}			
+		]			
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "00044",
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": "quinta",
+				"HoraInicial": "07:00",
+				"HoraFinal": "07:50"				
+			},
+			{
+				"DiaSemana": "sexta",
+				"HoraInicial": "07:00",
+				"HoraFinal": "07:50"				
+			}			
+		]			
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "00045",
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": "segunda",
+				"HoraInicial": "07:00",
+				"HoraFinal": "07:50"				
+			},
+			{
+				"DiaSemana": "terça",
+				"HoraInicial": "07:00",
+				"HoraFinal": "07:50"				
+			}			
+		]		
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "00042",
+		"listaDeDisponibilidades": []		
+	}
+	]
+}
