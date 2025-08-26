@@ -10,13 +10,10 @@
 		"detalhes": "REGRA 3 - Tente distribuir as disciplinas afim de ter aulas todos os dias."
 	},
 	{
-		"detalhes": "REGRA 4 - O professor somente pode ser alocado onde tem disponibilidade, caso contrário não deve ser alocado.A lista de disponibilidade vazia, indica total disponibilidade."
+		"detalhes": "REGRA 4 - O professor somente pode ser alocado na disciplina que já lecionou e no horário que ele tem disponibilidade, caso contrário não deve ser alocado. A lista de disponibilidade de horários vazia, indica total disponibilidade."
 	},
 	{
-		"detalhes": "REGRA 5 - O professor somente pode ser alocado na disciplina que ele já lecionou antes, caso contrário não deve ser alocado."
-	},
-	{
-		"detalhes": "REGRA 6 - É PERMITIDO que disciplinas sejam alocadas SEM professor, isso será possível caso não consiga alocar um professor. Isso garante que todas as disciplinas sejam alocadas."
+		"detalhes": "REGRA 5 - É PERMITIDO que disciplinas sejam alocadas SEM professor, isso será possível caso não consiga alocar um professor. Isso garante que todas as disciplinas sejam alocadas."
 	}
   ],
   "listaDeDisciplinas": [
